@@ -1,0 +1,19 @@
+{
+  "name": "everything_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "watch": "tsc -w",
+    "start": "node ./dist/index.js",
+    "dev": "nodemon ./dist/index.js"
+  },
+  "repository": "https://github.com/CJM1994/Everything_Demo.git",
+  "author": "CJM1994 <connorjohnmullin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.18",
+    "typescript": "^4.7.4"
+  }
+}
